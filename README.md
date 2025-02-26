@@ -13,3 +13,5 @@ A simple web-based logic gates simulator built with HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+### Deployed on vercel
+https://logicgates-iota.vercel.app/
